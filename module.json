@@ -3,8 +3,10 @@
 	"title": "socketlib-test",
 	"description": "A module to test socketlib's functionality",
 	"version": "0.0.1",
-	"minimumCoreVersion" : "0.7.9",
-	"compatibleCoreVersion" : "0.7.9",
+	"compatibility": {
+		"minimum": "11",
+		"verified": "13.338"
+	},
 	"authors": [
 		{
 			"name": "Manuel Vögele",
