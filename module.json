@@ -1,5 +1,5 @@
 {
-	"name": "socketlib-test",
+	"id": "socketlib-test",
 	"title": "socketlib-test",
 	"description": "A module to test socketlib's functionality",
 	"version": "0.0.1",
